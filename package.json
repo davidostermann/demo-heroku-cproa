@@ -1,0 +1,22 @@
+{
+  "name": "demo-heroku-cproa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidostermann/demo-heroku-cproa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidostermann/demo-heroku-cproa/issues"
+  },
+  "homepage": "https://github.com/davidostermann/demo-heroku-cproa#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
