@@ -18,6 +18,13 @@
   },
   "homepage": "https://github.com/davidostermann/demo-heroku-cproa#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "apollo-server-express": "^1.3.2",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "graphql": "^0.13.1",
+    "graphql-tools": "^2.21.0",
+    "mongoose": "^5.0.7"
   }
 }
